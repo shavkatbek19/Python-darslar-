@@ -1,8 +1,8 @@
-# son = float(input("Juft son kiriting: "))
-# if son%2:
-#     print('Bu son juft emas.')
-# else:
-#     print("Rahmat!")
+ son = float(input("Juft son kiriting: "))
+ if son%2:
+     print('Bu son juft emas.')
+ else:
+     print("Rahmat!")
 
 #2-Topshiriq
 # yosh = int(input("Yoshingiz nechida?"))
